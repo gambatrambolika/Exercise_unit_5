@@ -1,0 +1,11 @@
+here i will tell you, teacher
+how i made the steps 5 and 6 through commands in git bash
+
+first of all, you open up a file with the "nano" command and the name of the file
+you want to edit or/and rename. Then it opens up a interface where you can see 
+your text and therefore edit it. When you're done editing, you press ctrl + x and you say that
+you wanna save the changes. After that it will ask you to name it, put the name
+that you wish, and save it. 
+
+And for the 6th step, you do the same, but only text "nano", write what you desire
+and then you save with a name and format. Try it yourself if you don't believe me. 
